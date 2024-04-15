@@ -24,7 +24,6 @@
 </body>
 </html>
    <meta charset="UTF-8">
-    <title>Definiciones HTML</title>
 <body background="https://static.vecteezy.com/system/resources/previews/007/169/244/non_2x/seamless-pattern-with-cute-cats-head-cartoon-flat-design-on-pink-striped-background-vector.jpg"
 </head>
 <body>
